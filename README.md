@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sijandc
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on heloing out and learning
+- 💞️ I’m looking to collaborate on helping out and learning
 
 
 <!---
